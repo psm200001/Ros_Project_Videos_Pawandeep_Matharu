@@ -18,6 +18,64 @@ https://www.youtube.com/watch?v=_K1AQ2o3t_M
 📽️ **Demo Video:**  
 ▶️ [Watch on YouTube](https://youtu.be/7RBDBA6pTGQ)
 
+# Joystick Teleoperation and Mapping in ROS
+
+🎥 **Demo Video:**  
+▶️ (https://youtube.com/shorts/ybbvuoc_-UI)
+
+---
+
+## 🧠 Overview
+
+This project demonstrates **real-time joystick-based teleoperation** of a mobile robot using the `joy` ROS package, with live visual feedback in RViz. The robot was manually controlled to explore an environment while generating a map using **RTAB-Map SLAM**.
+
+This work was developed as part of the **MAE 4270 Experimental Robotics** course at the **University of Virginia**, focusing on **Human-Machine Interaction (HMI)** and hybrid control architectures in robotics.
+
+---
+
+## 🎯 Features Demonstrated in the Video
+
+- Manual control of a mobile robot using a joystick/gamepad
+- Real-time SLAM using RGB-D camera and RTAB-Map
+- RViz-based visualization of the robot, odometry, and map
+- Smooth human-in-the-loop control pipeline using ROS Noetic
+
+---
+
+## 🛠️ Tools & Frameworks
+
+- **ROS Noetic** on Ubuntu 20.04  
+- `joy` and `teleop_twist_joy` ROS packages  
+- **RTAB-Map** for visual SLAM  
+- **RViz** for visualization  
+- **Intel RealSense D435i** RGB-D Camera  
+- Python and C++ ROS nodes  
+
+---
+
+## 🧪 Applications
+
+- Human-in-the-loop robot control
+- Remote inspection and exploration
+- Assistive robotics and HRI
+- Real-time mapping and localization
+
+---
+
+## 📚 Coming Soon
+
+The full ROS package will be re-uploaded soon with:
+- Python teleop control node
+- RTAB-Map SLAM integration launch files
+- RViz configuration
+- URDF and config files
+
+---
+
+## 👨‍💻 Author
+
+**Pawandeep Singh Matharu**  
+
 
 # Joystick Teleoperation with Real-Time Mapping using RTAB-Map (ROS)
 

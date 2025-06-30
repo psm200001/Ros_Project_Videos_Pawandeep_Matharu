@@ -22,8 +22,8 @@ https://www.youtube.com/watch?v=_K1AQ2o3t_M
 # Joystick Teleoperation with Real-Time Mapping using RTAB-Map (ROS)
 
 📽️ **Demo Video:**  
-▶️ [Watch on YouTube](https://youtu.be/your-video-id) *(Replace with actual link)*
-
+▶️ [[Watch on YouTube](https://youtu.be/your-video-id) *(Replace with actual link)*
+](https://youtube.com/shorts/ybbvuoc_-UI?feature=share)
 ---
 
 ## 🧠 Project Overview

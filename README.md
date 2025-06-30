@@ -9,4 +9,6 @@
 - Two servo motors
 - rosserial + joy node + RViz
 
-📽️ [Watch Demo Video](./Pan_Tilt_Actuator_Demo_Pawandeep_Matharu.MP4) (private repo access required)
+📽️ [Watch Demo Video on Youtube]
+
+https://www.youtube.com/watch?v=_K1AQ2o3t_M

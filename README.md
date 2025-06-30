@@ -12,3 +12,8 @@
 📽️ [Watch Demo Video on Youtube]
 
 https://www.youtube.com/watch?v=_K1AQ2o3t_M
+
+# Real-Time 3D Mapping and Navigation using RTAB-Map & RViz
+
+📽️ **Demo Video:**  
+▶️ [Watch on YouTube](https://youtu.be/7RBDBA6pTGQ)
